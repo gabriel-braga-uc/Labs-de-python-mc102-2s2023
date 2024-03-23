@@ -1,18 +1,15 @@
 # Listas separadas contendo, em ordem, nota e peso respectivamente de cada matéria.  
-ma141_np = [10, 4]
-ma111_np = [10, 6]
-me110_np = [10, 4]
-me111_np = [10, 3]
-ms149_np = [10, 2]
-me210_np = [10, 4]
-ma211_np = [10, 6]
-la142_np = [10, 4]
-la118_np = [10, 4]
-ma327_np = [10, 4]
-mc102_np = [10, 6]
-
+np1 = [1, 4]
+np2 = [2, 6]
+np3 = [3, 4]
+np4 = [4, 3]
+np5 = [5, 2]
+np6 = [6, 4]
+np7 = [7, 6]
+np8 = [8, 4]
+np9 = [9, 4]
 # União de todas essas listas em uma grande lista.  
-materias_np = [ma141_np, ma111_np, me110_np, me111_np, ms149_np, me210_np, ma211_np, la142_np, la118_np, ma327_np, mc102_np]
+materias_np = [np1, np2, np3, np4, np5, np6, np7, np8, np9]
 
 peso_total = 0
 dividendo_media = 0
