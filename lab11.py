@@ -1,10 +1,3 @@
-###################################################
-# MC102 - Algoritmos e Programação de Computadores
-# Laboratório 11
-# Nome: Gabriel Ozélo Braga
-# RA: 247345
-###################################################
-
 tamanho = 15
 mapa = []
 mapa_matrix = []

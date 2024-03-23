@@ -1,4 +1,3 @@
-## Aluno: Gabriel Ozélo Braga; RA: 247345; Turma: D ##
 
 hpIv = int(input())
 hpPi = int(input())

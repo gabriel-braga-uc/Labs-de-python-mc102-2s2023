@@ -1,5 +1,3 @@
-## Aluno: Gabriel Ozélo Braga; RA: 247345; Turma: D ##
-
 
 a = int(input())
 b = int(input())

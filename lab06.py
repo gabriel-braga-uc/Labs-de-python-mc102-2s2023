@@ -1,4 +1,3 @@
-# Aluno: Gabriel Ozélo Braga; RA: 247345; Turma: D #
 
 N = float(input())
 N2 = N
